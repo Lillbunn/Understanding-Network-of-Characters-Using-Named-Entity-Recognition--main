@@ -32,5 +32,6 @@ Run Untitled19.ipynb to perform character analysis and visualize relationships.
 •	PyVis Documentation
 
 # Contributors
-Nilkamal Basyak
+Jintu Sharma
+
 
